@@ -1,7 +1,7 @@
 # [PackageDev] target_format: plist, ext: tmLanguage
 name: Harbour
 scopeName: source.harbour
-fileTypes: [prg, ch]
+fileTypes: [prg, ch, src]
 uuid: 56571807-d94d-4805-bbfc-87d347d189e4
 
 patterns:
